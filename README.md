@@ -36,4 +36,4 @@ An AI-powered travel planning system designed for students that generates person
 ---
 
 ## 👩‍💻 Author
-AshrAshr
+Ashritha
