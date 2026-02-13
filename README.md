@@ -1,4 +1,4 @@
-# AI-travel-planner-for-students
+
 # AI Travel Planner for Students
 
 An AI-powered travel planning system designed for students that generates personalized and budget-friendly itineraries based on preferences, location, and available resources.
@@ -36,4 +36,4 @@ An AI-powered travel planning system designed for students that generates person
 ---
 
 ## 👩‍💻 Author
-Ashritha
+AshrAshr
